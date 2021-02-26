@@ -9,24 +9,31 @@
         </div>
       </a>
 
-      <a href='#' class='list-group-item list-group-item-action border-0' id="managerewardid">
+      <a href='managereward.php' class='list-group-item list-group-item-action border-0' id="managerewardid">
         <div class="row">
           <div class="col-2"><i class="fa fa-list-alt" aria-hidden="true"></i></div>
           <div class="col">Manage Reward</div>
         </div>
       </a>
 
-      <a href='#' class='list-group-item list-group-item-action border-0' id="claimedPage">
+      <a href='claimpage.php' class='list-group-item list-group-item-action border-0' id="claimedPage">
         <div class="row">
           <div class="col-2"><i class="fa fa-archive" aria-hidden="true"></i></div>
           <div class="col">Claim Page</div>
         </div>
       </a>
 
-      <a href='#' class='list-group-item list-group-item-action border-0' id="allocatepoint">
+      <a href='allocatepoint.php' class='list-group-item list-group-item-action border-0' id="allocatepoint">
         <div class="row">
           <div class="col-2"><i class="fa fa-map-pin" aria-hidden="true"></i></div>
           <div class="col">Allocate Point</div>
+        </div>
+      </a>
+
+      <a href='logout.php' class='list-group-item list-group-item-action border-0' id="logout">
+        <div class="row">
+          <div class="col-2"><i class="fas fa-door-open" aria-hidden="true"></i></div>
+          <div class="col">Log Out</div>
         </div>
       </a>
 
